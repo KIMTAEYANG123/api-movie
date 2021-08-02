@@ -1,6 +1,6 @@
 import React,{useEffect,useState} from 'react'
 import axios from 'axios';
-import {X_Naver_Client_Id, X_Naver_Client_Secret,API_URL} from '../Config';
+import {X_Naver_Client_Id, X_Naver_Client_Secret,API_URL} from '../config';
 import CarView from "./CarView";
 import './Search.css';
 
